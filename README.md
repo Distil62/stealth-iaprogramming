@@ -2,5 +2,5 @@
 Unreal engine 4 student projet about a stealth game.
 Author : Louis Charavner
 
-![Cover](cover.png)
+![Cover](https://stmediarassetsfrcerec.blob.core.windows.net/other/cover.png)
 
